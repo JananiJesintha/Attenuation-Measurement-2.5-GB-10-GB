@@ -72,3 +72,6 @@ Compare simulation results with pre-lab calculations and record observations.
 <img width="1919" height="1079" alt="Screenshot 2026-05-02 144241" src="https://github.com/user-attachments/assets/e76dad80-15aa-4228-ba41-6a621d5efc5a" />
  
 <img width="1473" height="680" alt="image" src="https://github.com/user-attachments/assets/3fca402e-1b8a-48b9-aebc-d277094b9e92" />
+
+## RESULT
+Thus the Experiment was succesfully completed and output is verified.
